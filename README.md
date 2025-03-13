@@ -31,10 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Mostra os links de diversos sites em um lugar só
 
-## 🔖 Licença
-
-Esse projeto está sob a licença de @andremoraisms.
-
 ---
 
 ## ⚒️ Produção
